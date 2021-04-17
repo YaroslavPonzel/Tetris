@@ -1,0 +1,22 @@
+C:\Users\Хакер\source\repos\Tetrsi22\TetrisLib\obj\Debug\TetrisLib.csprojAssemblyReference.cache
+C:\Users\Хакер\source\repos\Tetrsi22\TetrisLib\obj\Debug\TetrisLib.csproj.CoreCompileInputs.cache
+C:\Users\Хакер\source\repos\Tetrsi22\TetrisLib\bin\Debug\TetrisLib.dll
+C:\Users\Хакер\source\repos\Tetrsi22\TetrisLib\bin\Debug\TetrisLib.pdb
+C:\Users\Хакер\source\repos\Tetrsi22\TetrisLib\obj\Debug\TetrisLib.dll
+C:\Users\Хакер\source\repos\Tetrsi22\TetrisLib\obj\Debug\TetrisLib.pdb
+C:\Users\Хакер\source\repos\Tetris\TetrisLib\bin\Debug\TetrisLib.dll
+C:\Users\Хакер\source\repos\Tetris\TetrisLib\bin\Debug\TetrisLib.pdb
+C:\Users\Хакер\source\repos\Tetris\TetrisLib\obj\Debug\TetrisLib.csproj.CoreCompileInputs.cache
+C:\Users\Хакер\source\repos\Tetris\TetrisLib\obj\Debug\TetrisLib.dll
+C:\Users\Хакер\source\repos\Tetris\TetrisLib\obj\Debug\TetrisLib.pdb
+C:\Users\Хакер\source\repos\Tetris\TetrisLib\obj\Debug\TetrisLib.csprojAssemblyReference.cache
+C:\Projects\Tetris2021\Tetris\TetrisLib\bin\Debug\TetrisLib.dll
+C:\Projects\Tetris2021\Tetris\TetrisLib\bin\Debug\TetrisLib.pdb
+C:\Projects\Tetris2021\Tetris\TetrisLib\obj\Debug\TetrisLib.dll
+C:\Projects\Tetris2021\Tetris\TetrisLib\obj\Debug\TetrisLib.pdb
+E:\слава\Учоба\Магістратура\2 семестр\Tetris-master\TetrisLib\bin\Debug\TetrisLib.dll
+E:\слава\Учоба\Магістратура\2 семестр\Tetris-master\TetrisLib\bin\Debug\TetrisLib.pdb
+E:\слава\Учоба\Магістратура\2 семестр\Tetris-master\TetrisLib\obj\Debug\TetrisLib.csproj.CoreCompileInputs.cache
+E:\слава\Учоба\Магістратура\2 семестр\Tetris-master\TetrisLib\obj\Debug\TetrisLib.dll
+E:\слава\Учоба\Магістратура\2 семестр\Tetris-master\TetrisLib\obj\Debug\TetrisLib.pdb
+E:\слава\Учоба\Магістратура\2 семестр\Tetris-master\TetrisLib\obj\Debug\TetrisLib.csprojAssemblyReference.cache
