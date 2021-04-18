@@ -1,0 +1,5 @@
+E:\слава\Учоба\Магістратура\2 семестр\Tetris\TetrisLib\bin\Release\TetrisLib.dll
+E:\слава\Учоба\Магістратура\2 семестр\Tetris\TetrisLib\bin\Release\TetrisLib.pdb
+E:\слава\Учоба\Магістратура\2 семестр\Tetris\TetrisLib\obj\Release\TetrisLib.csproj.CoreCompileInputs.cache
+E:\слава\Учоба\Магістратура\2 семестр\Tetris\TetrisLib\obj\Release\TetrisLib.dll
+E:\слава\Учоба\Магістратура\2 семестр\Tetris\TetrisLib\obj\Release\TetrisLib.pdb

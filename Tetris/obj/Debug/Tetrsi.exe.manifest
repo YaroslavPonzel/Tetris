@@ -73,7 +73,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>YOxvDABIh4sYwool9ZZJpiV4Cvbrr8/b6bZDgYK7bGY=</dsig:DigestValue>
+        <dsig:DigestValue>JJPwCC3p3pDoKmRFfjbHWj5xF8tqaP3Hgt7SElYFF0o=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -85,17 +85,17 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>BWEziGOE6OGhlhrz3qi3sko2pwO77k42Bwnkdu7qWr0=</dsig:DigestValue>
+        <dsig:DigestValue>/1bcOdxYpybRZA+fiqoQqX/PsWPtHC5e9cgCe8Ji4Fs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="Tetrsi.exe.config" size="184">
+  <file name="Tetrsi.exe.config" size="189">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>gXPU0Xy3KObyxeLOgSTOfrD0WdxiCFvKq3hqvx9rN6c=</dsig:DigestValue>
+      <dsig:DigestValue>rl5/qDc7Jz+tB+BIbOv9iMGPlRe6YJwrjmU09dnlPcs=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

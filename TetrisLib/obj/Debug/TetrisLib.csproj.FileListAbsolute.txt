@@ -20,3 +20,9 @@ E:\слава\Учоба\Магістратура\2 семестр\Tetris-master
 E:\слава\Учоба\Магістратура\2 семестр\Tetris-master\TetrisLib\obj\Debug\TetrisLib.dll
 E:\слава\Учоба\Магістратура\2 семестр\Tetris-master\TetrisLib\obj\Debug\TetrisLib.pdb
 E:\слава\Учоба\Магістратура\2 семестр\Tetris-master\TetrisLib\obj\Debug\TetrisLib.csprojAssemblyReference.cache
+E:\слава\Учоба\Магістратура\2 семестр\Tetris\TetrisLib\bin\Debug\TetrisLib.dll
+E:\слава\Учоба\Магістратура\2 семестр\Tetris\TetrisLib\bin\Debug\TetrisLib.pdb
+E:\слава\Учоба\Магістратура\2 семестр\Tetris\TetrisLib\obj\Debug\TetrisLib.csprojAssemblyReference.cache
+E:\слава\Учоба\Магістратура\2 семестр\Tetris\TetrisLib\obj\Debug\TetrisLib.csproj.CoreCompileInputs.cache
+E:\слава\Учоба\Магістратура\2 семестр\Tetris\TetrisLib\obj\Debug\TetrisLib.dll
+E:\слава\Учоба\Магістратура\2 семестр\Tetris\TetrisLib\obj\Debug\TetrisLib.pdb
